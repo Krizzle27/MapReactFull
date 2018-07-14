@@ -1,0 +1,12 @@
+.infoWindow{
+    background-color: azure;
+    overflow: auto;
+    width: 10em;
+    position: relative;
+}
+.infoWindow h1{
+
+}
+.infoWindow img{
+    width: 8em;
+}
